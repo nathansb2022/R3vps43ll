@@ -1,6 +1,6 @@
 # R3vps43ll
 
- R3vps43ll is a PowerShell reverse shell with limited shell capabilities. It is uploaded as a .txt file and can be used as such.
+ R3vps43ll is a PowerShell reverse shell with limited capabilities. It is uploaded as a .txt file and can be used as such.
  
  # Remember
  
