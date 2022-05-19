@@ -8,12 +8,12 @@
  
  # How to Use
  
- You can save as .ps1 and runas PowerShell:
+ You can save as .ps1 and runas in PowerShell:
  
  .\r3vps43ll.ps1
  
  # Or
  
- Run it like this:
+ Run it like this in PowerShell:
  
  gc -raw .\r3vps43ll.txt | iex
