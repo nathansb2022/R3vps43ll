@@ -1,5 +1,5 @@
 <# 
-     R3vps43ll is a PowerShell reverse shell with limited shell capabilities.
+     R3vps43ll is a PowerShell reverse shell with limited capabilities.
      Remember to add your IP and Port below.
      Example usage in PowerShell: gc -raw r3vps43ll.txt | iex
 #>
